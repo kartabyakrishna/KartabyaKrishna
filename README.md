@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [HMA10000-dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **AndroidDevelopment**
 
 - 🤝 I’m looking for help with [Random-but-Helpful](https://github.com/kartabyakrishna/Random-but-Useful)
 
