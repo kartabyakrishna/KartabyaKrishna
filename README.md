@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/kartabyakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartabyakrishna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartabyakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartabyakrishna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19742524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kartabyakrishna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22807474/kartabya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kartabyakrishna" height="30" width="40" /></a>
 <a href="https://instagram.com/kartabyakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartabyakrishna" height="30" width="40" /></a>
 <a href="https://dribbble.com/kartabyakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kartabyakrishna" height="30" width="40" /></a>
 </p>
