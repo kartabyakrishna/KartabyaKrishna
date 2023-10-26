@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kartabyakrishna@gmail.com**
 
-- ⚡ Fun-fact **I cook great food 👨🏼‍🍳**
+- ⚡ Fun fact **I cook great food 👨🏼‍🍳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
