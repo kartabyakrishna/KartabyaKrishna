@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Random-but-Helpful](https://github.com/kartabyakrishna/Random-but-Useful)
 
-- 👨‍💻 All of my projects WILL BE available at [My Personal Site](www.kartabyakrishna.com) (not there yet 🙃..)
+- 👨‍💻 All of my projects _WILL BE_ available at [My Personal Site](www.kartabyakrishna.com) (not there yet 🙃..)
 
 - 💬 Ask me about **Deep Learning and Machine Learning**
 
