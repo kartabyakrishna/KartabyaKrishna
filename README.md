@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kartabya Krishna</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartabyakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="kartabyakrishna" /> </p>
 
