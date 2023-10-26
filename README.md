@@ -34,4 +34,5 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartabyakrishna&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartabyakrishna&theme=radical&hide_border=true)](https://github.com/kartabyakrishna/)
+
