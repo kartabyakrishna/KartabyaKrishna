@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects WILL BE available at [My Personal Site](www.kartabyakrishna.com) (not there yet 🙃..)
 
-- 💬 Ask me about **Deep-Learning and Machine Learning**
+- 💬 Ask me about **Deep Learning and Machine Learning**
 
 - 📫 How to reach me **kartabyakrishna@gmail.com**
 
