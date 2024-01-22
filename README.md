@@ -1,4 +1,4 @@
-# [![MasterHead](Assets/flatage.gif | width =500)](https://github.com/kartabyakrishna/)
+# [![MasterHead](Assets/flatage.gif)](https://github.com/kartabyakrishna/)
 
 <h1 align="center">Hi 👋, I'm Kartabya Krishna</h1>
 <h3 align="center">A Data Science enthusiast from India.</h3>
