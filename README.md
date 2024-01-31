@@ -1,4 +1,3 @@
-# [![MasterHead](Assets/flatage.gif)](https://github.com/kartabyakrishna/) 
 <img src="Assets/flatage.gif" alt="GitHub GIF" width="100%">
 
 <h1 align="center">Hi 👋, I'm Kartabya Krishna</h1>
