@@ -1,4 +1,4 @@
-<img src="Assets/gifgit.gif" alt="GitHub GIF" width="100%">
+<img src="Assets/withName.gif" alt="GitHub GIF" width="100%">
 
 <h1 align="center">Hi 👋, I'm Kartabya Krishna</h1>
 <h3 align="center">A Data Science enthusiast from India.</h3>
