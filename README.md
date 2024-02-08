@@ -8,20 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartabyakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="kartabyakrishna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kartabyakrishna" target="blank"><img src="https://img.shields.io/twitter/follow/kartabyakrishna?logo=twitter&style=for-the-badge" alt="kartabyakrishna" /></a> </p>
-
+- 🌱 I’m currently learning **Android Development**
 - 🔭 I’m currently working on [HAM10000-dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
-
-
 - 🤝 I’m looking for help with [Random-but-Helpful](https://github.com/kartabyakrishna/Random-but-Useful)
-
 - 👨‍💻 All of my projects **_WILL BE_** available at [My Personal Site](www.kartabyakrishna.com) (not there yet 🙃..)
-
 - 💬 Ask me about **Deep Learning & Machine Learning**
-
 - 📫 How to reach me **kartabyakrishna@gmail.com**
-
 - ⚡ Fun fact **I cook great food 👨🏼‍🍳**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/kartabyakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartabyakrishna" height="30" width="40" /></a>
