@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kartabyakrishna" target="blank"><img src="https://img.shields.io/twitter/follow/kartabyakrishna?logo=twitter&style=for-the-badge" alt="kartabyakrishna" /></a> </p>
 
-- 🔭 I’m currently working on [HAM10000-dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+- 🔭 I’m currently working on 🤫
 
 - 🌱 I’m currently learning **Android Development**
 
