@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on 🤫
 
-- 🌱 I’m currently learning **Android Development**
-
 - 🤝 I’m looking for help with [Random-but-Helpful](https://github.com/kartabyakrishna/Random-but-Useful)
 
 - 👨‍💻 All of my projects **_WILL BE_** available at [My Personal Site](www.kartabyakrishna.com) (not there yet 🙃..)
